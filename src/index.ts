@@ -8,4 +8,4 @@ function verify(emp: Employee){
 }
 
 let msg = "hello";
-export default{}
+console.log(msg);
